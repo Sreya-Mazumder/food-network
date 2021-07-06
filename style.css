@@ -40,4 +40,28 @@ section{ margin-bottom: 90px;}
 }
 p{font-size: 20px;}
 .text-allignment{text-align: center;}
+.div-image-width{width:40%;
+                box-shadow: 10px 10px 30px gray;
+                border-radius: 5%;
+                
+                margin-left: 20px;
+                margin-right: 10px;
+                margin-top: 5px;
+}
+.image-width{width: 30%;
+            padding: 10px;
+}
 
+.i{width: 90%;
+    height:50%;
+}
+footer{text-align: center;
+        background-color: black;
+        width: 100%;
+        padding-top: 30px;
+        padding-bottom: 70px;
+}
+footer p{color: cornsilk;
+        font-size: 20px;
+        
+}
